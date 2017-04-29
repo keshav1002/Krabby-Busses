@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_busroute"
+            android:icon="@drawable/ic_directions_bus_"
+            android:title="Bus Routes" />
+        <item android:id="@+id/nav_tutorial"
+            android:icon="@drawable/ic_theaters"
+            android:title="Tutorial" />
+    </group>
+
+    <item android:title="SriLankan Bus Routes">
+        <menu>
+            <item android:id="@+id/bus01Route"
+                android:title="01 Bus Route"
+                android:icon="@drawable/ic_directions_bus_"/>
+            <item android:id="@+id/bus02Route"
+                android:title="02 Bus Route"
+                android:icon="@drawable/ic_directions_bus_"/>
+            <item android:id="@+id/bus03Route"
+                android:title="03 Bus Route"
+                android:icon="@drawable/ic_directions_bus_"/>
+            <item android:id="@+id/bus100Route"
+                android:title="100 Bus Route"
+                android:icon="@drawable/ic_directions_bus_"/>
+            <item android:id="@+id/bus101Route"
+                android:title="101 Bus Route"
+                android:icon="@drawable/ic_directions_bus_"/>
+            <item android:id="@+id/bus154Route"
+                android:title="154 Bus Route"
+                android:icon="@drawable/ic_directions_bus_"/>
+            <item android:id="@+id/showMore"
+                android:title="Show More"/>
+
+        </menu>
+    </item>
+
+    <item android:title="">
+        <menu>
+            <item android:id="@+id/nav_option"
+                android:icon="@android:drawable/ic_menu_manage"
+                android:title="Options" />
+            <item android:id="@+id/nav_aboutUs"
+                android:title="About Us" />
+        </menu>
+    </item>
+
+
+
+
+</menu>

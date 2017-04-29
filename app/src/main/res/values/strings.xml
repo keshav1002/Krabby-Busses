@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name" translatable="false">Krabby Busses</string>
+    <string name="title_activity_main" translatable="false">MainActivity</string>
+
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="title_activity_bus_route" translatable="false">Map</string>
+    <string name="title_activity_navigation_drawer">Bus Router</string>
+    <string name="title_activity_bus_routes" translatable="false">Bus Routes</string>
+    <string name="title_activity_navigation_for_maps">navigationForMaps</string>
+    <string name="title_activity_navigation__maps">Navigation_Maps</string>
+    <string name="enter_your_destination" translatable="false">Enter Your Destination</string>
+    <string name="title_activity_list_of_bus_routes" translatable="false">Bus Routes</string>
+    <string name="title_activity_list_of_busses" translatable="false">List Of Busses</string>
+    <string name="title_activity_bus_route154" translatable="false">154 Bus Route</string>
+    <string name="title_activity_bus_route1">Bus No.1 Route</string>
+    <string name="title_activity_bus_route2">Route of Bus No.02</string>
+    <string name="title_activity_bus_route3">Route of Bus No.03</string>
+    <string name="title_activity_bus_route100">Route of Bus No.100</string>
+    <string name="title_activity_bus_route101">Route of Bus No.101</string>
+    <string name="title_activity_about_us">About Us</string>
+</resources>
